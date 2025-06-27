@@ -1,7 +1,6 @@
 # WWDC25-Xcode-Theme-Light
 
-Installation
-
+## Installation
 - Open Finder then from the menu bar choose Go -> Go to folder.... 
 - Paste ~/Library/Developer/Xcode/UserData/FontAndColorThemes/ into the pop-up to open your Xcode themes folder. If this folder does not yet exist, you will need to create it first.
 - Copy the unzipped Rainbow.xccolortheme file into the folder.
